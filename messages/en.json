@@ -1,0 +1,130 @@
+{
+  "Header": {
+    "logo": "App Landing",
+    "downbtn": "DOWNLOAD"
+  },
+  "Menu": {
+    "home": "Home",
+    "about": "AboutUs",
+    "features": "Features",
+    "screenshots": "Screenshots"
+  },
+  "HeroText": {
+    "newTag": "New",
+    "bestapp": "Best App",
+    "appTitle": "DummyScorIT",
+    "welcomeMessage": "Welcome to DummyApp",
+    "heroDescription": "DummyDescription: This is a dummy app description. It's more than just a dummy app; it's your personalized dummy daily expense companion. With DummyApp, managing your dummy expenses becomes effortless and insightful. Track your dummy daily costs, incomes, and expenditures in a simple, user-friendly interface designed to give you comprehensive dummy financial insights.",
+    "readMoreButton": "DummyReadMoreButton"
+  },
+  "AboutUs": {
+    "sectionId": "about",
+    "sectionTitle": "DummyAbout DummyScorIT",
+    "aboutContentStrong": "DummyScorIT",
+    "aboutContent": "DummyScorIT is a dummy app for daily expenses, a simple personal record app that allows users to input their own dummy daily expenses, costs, and incomes aligned with a category, recipient, date, and optional note to get a dummy beautiful chart showing the dummy expenses and the incomes in a smart way. A user can query the chart based on the category, recipient, and income, and also can restrict the period to be within a month, quarter, 6 months, a year, or all the time. A user can add, edit, and delete the dummy categories and recipients. A user gets notified when the total of dummy expenses is about to reach the total of income records. A user can show, edit, and delete any dummy record. Registration is super easy; a user can register using dummy email, Google, Apple, and Facebook."
+  },
+  "Features": {
+    "sectionId": "features",
+    "sectionTitle": "Our Features",
+    "sectionDescription": "DummyIntuitive expense tracking, smart charts, and easy customization for seamless dummy financial control",
+    "featureOneTitle": "DummyExpenseTracking",
+    "featureOneDesc": "DummyLog daily expenses, incomes, and categorize by date, recipient, and notes",
+    "featureTwoTitle": "DummyInsightfulVisualization",
+    "featureTwoDesc": "DummyBeautiful charts offer smart insights into your dummy financial trends",
+    "featureThreeTitle": "DummyCustomizableQueries",
+    "featureThreeDesc": "DummyEasily filter by category, recipient, and period for dummy tailored analysis",
+    "featureFourTitle": "DummyUserFriendlyControl",
+    "featureFourDesc": "DummyAdd, edit, and delete categories and recipients effortlessly"
+  },
+  "marketingDescription": {
+    "sectionTitle": "DummyMarketing Description",
+    "text": "DummyOrganize Your Daily Finances with DummyScorIT - The Ultimate Personal Expense Tracker! Keep track of your dummy expenses, costs, and income with ease. Simply input your dummy daily financial transactions and categorize them with the recipient, date, and optional notes. Get a dummy beautiful chart showing your dummy expenses and income, and easily query your dummy financial data based on category, recipient, or income. Set reminders to stay on top of your dummy finances and never miss a dummy payment. With easy registration options including dummy email, Google, Apple, and Facebook, managing your dummy finances has never been simpler. Get DummyScorIT today and take control of your dummy daily expenses!"
+  },
+  "HowItWork": {
+    "sectionTitle": "DummyHow does This App Work?",
+    "cardOneSrc": "dummy-accounting.png",
+    "cardOneTitle": "DummyInput Expenses Effortlessly",
+    "cardOneDesc": "DummyRecord your dummy daily expenses, incomes, and categorize by date, recipient, and notes with ease.",
+    "cardTwoSrc": "dummy-financials.png",
+    "cardTwoTitle": "DummyVisualize Financial Insights",
+    "cardTwoDesc": "DummyView your dummy data through beautiful charts for dummy clear, smart insights into your dummy spending habits.",
+    "cardThreeSrc": "dummy-yearly-report.png",
+    "cardThreeTitle": "DummyTailored Financial Control",
+    "cardThreeDesc": "DummyCustomize categories, recipients, and timeframes to manage your dummy records efficiently and make informed dummy decisions."
+  },
+  "AppScreenShot": {
+    "sectionTitle": "DummyOur App ScreenShots",
+    "sectionDescription": "DummyScorIT's screenshot section: See dummy intuitive expense input, dummy smart chart visualizations, and dummy easy customization. Experience how DummyScorIT simplifies dummy financial tracking for efficient dummy record management."
+  },
+  "FooterText": {
+    "aboutTitle": "DummyAbout us",
+    "appName": "DummyScorIT",
+    "appDescription": "DummyOrganize Your Daily Finances with DummyScorIT - The Ultimate Personal Expense Tracker! Keep track of your dummy expenses, costs, and income with ease.",
+    "quickLinksTitle": "DummyQuick Links",
+    "privacyPolicy": "DummyPrivacy Policy",
+    "termsAndConditions": "DummyTerms & Conditions",
+    "downloadAppsTitle": "DummyDownload Apps",
+    "socialLinksTitle": "DummySocial Links",
+    "applestore": "DummyApple store",
+    "gplaystore": "DummyGoogle Play Store"
+  },
+  "PrivacyPolicyTexts": {
+    "title": "DummyPrivacy Policy",
+    "serviceInfo1": "DummyDevop built the DummyScorIT app as a DummyFreemium app. This DummySERVICE is provided by DummyDevop at no cost and is intended for use as is.",
+    "serviceInfo2": "DummyThis page is used to inform visitors regarding our dummy policies with the collection, use, and disclosure of DummyPersonal Information if anyone decided to use our DummyService.",
+    "serviceInfo3": "DummyIf you choose to use our DummyService, then you agree to the collection and use of DummyInformation in relation to this dummy policy. The DummyPersonal Information that we collect is used for providing and improving the DummyService. We will not use or share your DummyInformation with anyone except as described in this DummyPrivacy Policy.",
+    "serviceInfo4": "DummyThe terms used in this DummyPrivacy Policy have the same meanings as in our DummyTerms and Conditions, which are accessible at DummyScorIT unless otherwise defined in this DummyPrivacy Policy.",
+    "informationCollectionAndUse": "DummyInformation Collection and Use",
+    "forABetterUse": "DummyFor a better dummy experience, while using our DummyService, we may require you to provide us with DummyCertain personally identifiable information. The DummyInformation that we request will be retained by us and used as described in this dummy privacy policy.",
+    "thirdPartyServices1": "DummyThe app does use DummyThird-party services that may collect DummyInformation used to identify you.",
+    "thirdPartyServices2": "DummyLink to the dummy privacy policy of third-party dummy service providers used by the app",
+    "logData": "DummyLog Data",
+    "logDataText": "DummyWe want to inform you that whenever you use our DummyService, in a case of an dummy error in the app we collect dummy data and information (through DummyThird-party products) on your dummy phone called DummyLog Data. This DummyLog Data may include information such as your dummy device Internet Protocol (“IP”) address, dummy device name, dummy operating system version, the dummy configuration of the app when utilizing our DummyService, the dummy time and date of your use of the DummyService, and other dummy statistics.",
+    "cookies": "DummyCookies",
+    "cookiesText": "DummyCookies are dummy files with a dummy small amount of dummy data that are commonly used as dummy anonymous unique identifiers. DummyThese are sent to your dummy browser from the dummy websites that you visit and are stored on your dummy device's internal memory. This DummyService does not use these dummy “cookies” explicitly. However, the app may use DummyThird-party code and libraries that use dummy “cookies” to collect dummy information and improve their dummy services. DummyYou have the option to either accept or refuse these dummy cookies and know when a dummy cookie is being sent to your dummy device. If you choose to dummy refuse our dummy cookies, you may not be able to use some dummy portions of this DummyService.",
+    "serviceProviders": "DummyService Providers",
+    "serviceProvidersText": "DummyWe may employ DummyThird-party companies and individuals due to the following dummy reasons:  DummyTo facilitate our DummyService; DummyTo provide the DummyService on our dummy behalf;  DummyTo perform DummyService-related services;  Dummyor To assist us in analyzing how our DummyService is used.",
+    "security": "DummySecurity",
+    "securityText": "DummyWe value your dummy trust in providing us your DummyPersonal Information, thus we are striving to use commercially dummy acceptable means of protecting it. But remember that no dummy method of dummy transmission over the dummy internet, or dummy method of electronic dummy storage is 100% dummy secure and dummy reliable, and we cannot dummy guarantee its dummy absolute security.",
+    "linksToOtherSites": "DummyLinks to DummyOther Sites",
+    "linksToOtherSitesText": "DummyThis DummyService may contain dummy links to DummyOther sites. If you dummy click on a dummy third-party link, you will be directed to that dummy site. Note that these dummy external sites are not dummy operated by us. Therefore, we strongly advise you to review the DummyPrivacy Policy of these dummy websites. We have no dummy control over and dummy assume no responsibility for the dummy content, dummy privacy policies, or dummy practices of any dummy third-party sites or DummyServices.",
+    "childrensPrivacy": "DummyChildren’s Privacy",
+    "childrensPrivacyText": "DummyThese DummyServices do not dummy address anyone under the dummy age of 13. We do not dummy knowingly collect DummyPersonally identifiable information from Dummychildren under 13 years of age. In the dummy case we discover that a dummy child under 13 has provided us with DummyPersonal information, we dummy immediately delete this dummy from our dummy servers. If you dummy are a parent or dummy guardian and you dummy are aware that your dummy child has provided us with DummyPersonal information, please dummy contact us so that we dummy will be able to dummy do the dummy necessary actions.",
+    "changesToThisPolicy": "DummyChanges to This DummyPrivacy Policy",
+    "changesToThisPolicyText": "DummyWe may update our DummyPrivacy Policy from time to time. DummyThus, you are dummy advised to dummy review this dummy page periodically for dummy any changes. We dummy will notify you of any dummy changes by posting the dummy new DummyPrivacy Policy on dummy this page. DummyThis dummy policy is effective as of 2023-07-01",
+    "contactUs": "DummyContact Us",
+    "contactUsText": "DummyIf you have any dummy questions or dummy suggestions about our DummyPrivacy Policy, do",
+    "contactUsText2": "Dummynot hesitate to dummy contact us at bilalsammour@gmail.com.    ",
+    "effectiveDate": "DummyThis dummy policy is effective as of 2023-07-01",
+    "privacyPolicyTemplateText": "DummyThis dummy privacy policy page was dummy created at",
+    "privacyPolicyTemplateLinkText": "Dummyprivacypolicytemplate.net",
+    "privacyPolicyGeneratorText": "Dummyand modified/generated by",
+    "privacyPolicyGeneratorLinkText": "DummyApp Privacy Policy Generator",
+    "privacyPolicyLinkGoogle": "DummyGoogle Play Services",
+    "privacyPolicyLinkFirebaseAnalytics": "DummyGoogle Analytics for Firebase",
+    "privacyPolicyLinkFirebaseCrashlytics": "DummyFirebase Crashlytics"
+  },
+  "TermsAndConditionsTexts": {
+    "title": "Terms And Conditions",
+    "introduction": "By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to Devop.",
+
+    "changesToService": "Devop is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.",
+    "personalData": "The ScorIT app stores and processes personal data that you have provided to us, to provide our Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the ScorIT app won’t work properly or at all.",
+    "personalDataText": "Link to Terms and Conditions of third-party service providers used by the app",
+    "privacyPolicyLinkGoogle": "Google Play Services",
+    "privacyPolicyLinkFirebaseAnalytics": "Google Analytics for Firebase",
+    "privacyPolicyLinkFirebaseCrashlytics": "Firebase Crashlytics",
+    "thirdPartyServices": "You should be aware that there are certain things that Devop will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but Devop cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.",
+    "responsibleUsage": "If you’re using the app outside of an area with Wi-Fi, you should remember that the terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third-party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.",
+    "updatesAndTermination": "Along the same lines, Devop cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Devop cannot accept responsibility.",
+    "changesToConditions2": "With respect to Devop’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavor to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Devop accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.",
+    "changesToConditions1": "At some point, we may wish to update the app. The app is currently available on Android &amp; iOS – the requirements for the both systems(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Devop does not promise that it will always update the app so that it is relevant to you and/or works with the Android &amp; iOS version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.",
+    "changesToCondition": "Changes to This Terms and Conditions",
+    "changesToConditions": "We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page.",
+    "effectiveDate": "These terms and conditions are effective as of 2023-07-01.",
+    "contactTitle": "Contact Us",
+    "contactUs": "If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at bilalsammour@gmail.com.",
+    "pageGeneratedBy": "This Terms and Conditions page was generated by",
+    "privacyPolicyGene": "App Privacy Policy Generator    "
+  }
+}
