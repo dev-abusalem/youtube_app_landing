@@ -1,3 +1,4 @@
+Resource image you can name by this [image](https://github.com/dev-abusalem/youtube_app_landing/assets/96655281/f2d4b9c0-bb72-4c0d-ae37-7da6078e15dd)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
