@@ -14,7 +14,7 @@ pnpm dev
 # or
 bun dev
 ```
-Resource image you can name by this [image](https://github.com/dev-abusalem/youtube_app_landing/assets/96655281/f2d4b9c0-bb72-4c0d-ae37-7da6078e15dd)
+Here is all images. Just click to open [All Images Of This App](https://github.com/dev-abusalem/youtube_app_landing/assets/96655281/f2d4b9c0-bb72-4c0d-ae37-7da6078e15dd)
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
